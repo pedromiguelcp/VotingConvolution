@@ -21,15 +21,15 @@
 
 <p> Processing time comparasion with the dense convolution.</p>
 
-<h1 align="center">
-    <img alt="Sparsity_graph" title="Sparsity_graph" src="Sparsity_graph.png" />
-</h1>
+<h3 align="center">
+    <img alt="Sparsity_graph" title="Sparsity_graph" src="Sparsity_graph.png" width="700"/>
+</h3>
 
 <p> Null weights effect on processing time.</p>
 
-<h1 align="center">
-    <img alt="Null_weights_graph" title="Null_weights_graph" src="Null_weights_graph.png" />
-</h1>
+<h3 align="center">
+    <img alt="Null_weights_graph" title="Null_weights_graph" src="Null_weights_graph.png" width="700"/>
+</h3>
 
 
 
